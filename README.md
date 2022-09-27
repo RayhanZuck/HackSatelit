@@ -8,10 +8,10 @@
     <img alt="Python ^" src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen"/>
   </a>
   <a href="https://github.com/RayhanZuck">
-    <img alt="Update Terakhir" src="https://img.shields.io/badge/Update%20Terakhir-26Mei-orange"/>
+    <img alt="Update Terakhir" src="https://img.shields.io/badge/Update%20Terakhir-27 September-orange"/>
   </a>
    <a href="https://github.com/RayhanZuck">
-    <img alt="Ukuran Repo" src="https://img.shields.io/badge/Ukuran%20Repo-1.29MB-blue"/>
+    <img alt="Ukuran Repo" src="https://img.shields.io/badge/Ukuran%20Repo-829KB-blue"/>
   </a>
 <a href="https://www.facebook.com/RayhanBusiness">
     <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%20Business-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
